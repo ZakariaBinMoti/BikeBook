@@ -10,24 +10,23 @@ If you find any bug or added new feature feel free to send a pull request.
 
 If you have any suggestions feel free create issues.
 <ul>
-  <li><a href="https://github.com/sabbir-hossain-abir/BikeBook/README.md#12-purpose">Purpose</li> 
-  <li>Features</li>
-  <li>Technology</li>
-  <li>Screen Shot</li>
-  <li>Installation</li>
+  <li><a href="#1.1 Purpose">Purpose</li> 
+  <li><a href="#1.2 Features">Features</li> 
+  <li><a href="#1.3 Technology">Technology</li> 
+  <li><a href="#Screen Shot">Screen Shot</li> 
+  <li><a href="#Installation">Installation</li> 
 </ul>
   
   
-## 1.2 Purpose<br>
+## 1.1 Purpose<br>
 
 
-## 1.3 Features
+## 1.2 Features
 
 
-## 1.4 Technology
+## 1.3 Technology
 
 
-## 1.5 Screen Shot
+# SCREEN SHOT
 
-
-## 1.6 Installation
+# INSTALLATION
