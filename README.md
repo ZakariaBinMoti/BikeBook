@@ -10,7 +10,7 @@ If you find any bug or added new feature feel free to send a pull request.
 
 If you have any suggestions feel free create issues.
 <ul>
-  <li><a href="https://github.com/sabbir-hossain-abir/BikeBook/edit/main/README.md#12-purpose">Purpose</li> 
+  <li><a href="https://github.com/sabbir-hossain-abir/BikeBook/README.md#12-purpose">Purpose</li> 
   <li>Features</li>
   <li>Technology</li>
   <li>Screen Shot</li>
