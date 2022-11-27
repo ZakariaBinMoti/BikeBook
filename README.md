@@ -64,9 +64,4 @@ We will be using Node.js + Express.js as the backend programming language. Which
 We will be using MongoDB as our Database management system. MongoDB is one of the most popular Database management systems out there right now. What makes it more versatile than another typical RDBMS is it's more reliable considering the advancement of technology. MongoDB is a database that is more advanced and capable of handling big data with dynamic schema features.
 
 <b>Others</b><br>
-We will be using basic CSS and its framework Bootstrap 5, which provides various options for playing the style. We will use Redux as our state management tool.
-
-
-# SCREEN SHOT
-
-# INSTALLATION
+We will be using basic HTML, CSS and its framework Bootstrap 5, which provides various options for playing the style. We will use Redux as our state management tool.
