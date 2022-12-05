@@ -65,3 +65,13 @@ We will be using MongoDB as our Database management system. MongoDB is one of th
 
 <b>Others</b><br>
 We will be using basic HTML, CSS and its framework Bootstrap 5, which provides various options for playing the style. We will use Redux as our state management tool.
+
+
+
+# Diagrams
+
+## Use Case Diagram
+<img src="Diagrams/UML Use Case Diagram.png">
+
+## Class Diagram
+<img src="Diagrams/UML class.png">
