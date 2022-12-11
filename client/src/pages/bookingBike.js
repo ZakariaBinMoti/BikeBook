@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-function bookingBike() {
+function BookingBike() {
     return ( 
         <div>
             <h1>Booking Bike Page</h1>
@@ -9,4 +9,4 @@ function bookingBike() {
      );
 }
 
-export default bookingBike;
+export default BookingBike;
