@@ -1,20 +1,19 @@
-import React from "react";
+import React, { Fragment } from "react";
 
+import Header from "../components/Header";
+import Footer from "../components/Footer";
+import Routers from "../components/Routers";
 
-function DefaultLayout(props) {
-    return (
-        <div>
-            <div className="header">
-                <div className="d-flex justify-content-between">
-                    <h1>Bike Book</h1>
-                    <button>user</button>
-                </div>
-            </div>
-            <div className="content">
-                {props.children}
-            </div>
-        </div>
-    )
-}
+const Layout = () => {
+  return (
+    <Fragment>
+      <Header />
+      <div>
+        <Routers />
+      </div>
+      <Footer />
+    </Fragment>
+  );
+};
 
-export default DefaultLayout
+export default Layout;
